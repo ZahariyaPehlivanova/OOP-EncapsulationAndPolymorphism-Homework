@@ -1,0 +1,6 @@
+D:\VisualStudio\OOP\Encapsulation and Polymorphism\03.Game Engine\bin\Debug\03.Game Engine.exe.config
+D:\VisualStudio\OOP\Encapsulation and Polymorphism\03.Game Engine\obj\Debug\03.Game Engine.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Encapsulation and Polymorphism\03.Game Engine\bin\Debug\03.Game Engine.exe
+D:\VisualStudio\OOP\Encapsulation and Polymorphism\03.Game Engine\bin\Debug\03.Game Engine.pdb
+D:\VisualStudio\OOP\Encapsulation and Polymorphism\03.Game Engine\obj\Debug\03.Game Engine.exe
+D:\VisualStudio\OOP\Encapsulation and Polymorphism\03.Game Engine\obj\Debug\03.Game Engine.pdb
